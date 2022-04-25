@@ -55,18 +55,18 @@
 [<img width="30" src="https://www.svgrepo.com/show/230690/email-mail.svg" align="center"/>][E-mail]
 <br />
 <br />
-<img src="https://komarev.com/ghpvc/?username=AyberkOzkan&color=blueviolet&style=plastic" align = "center"/>
 <br />
 <br />
 <br />
 <p align="center">
-    <img height="140"
+    <img height="130"
       src="https://github-readme-stats.vercel.app/api?username=AyberkOzkan&show_icons=true&theme=dracula&bg_color=21262D&hide=prs,issues,contribs&hide_border=true"
     />
-    <img height="140"
+    <img height="130"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyberkOzkan&layout=compact&theme=dracula&bg_color=21262D&hide_border=true"
     />    
   </p>
+  <img src="https://komarev.com/ghpvc/?username=AyberkOzkan&color=blueviolet&style=plastic" align = "center"/>
   
   
 
