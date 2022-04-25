@@ -4,7 +4,7 @@
 
 [Linkedin]: https://www.linkedin.com/in/-ayberk/
 [E-mail]: kenan.ayberk@hotmail.com
-
+[Instagram]: https://www.instagram.com/kenanayberkozkan/
 
 <table>
     <tr>
@@ -51,8 +51,9 @@
 </table>
 
 ### <img width="20" src="https://www.svgrepo.com/show/324660/dialog-chat-message-mail-email-letter-envelope.svg"/> Reach out to me
-[<img width="30" src="https://www.svgrepo.com/show/115230/linkedin.svg" align="center"/>][Linkedin]
-[<img width="30" src="https://www.svgrepo.com/show/230690/email-mail.svg" align="center"/>][E-mail]
+[<img width="30" src="https://www.svgrepo.com/show/138936/linkedin.svg" align="center"/>][Linkedin]
+[<img width="30" src="https://www.svgrepo.com/show/190382/email-mail.svg" align="center"/>][E-mail]
+[<img width="30" src="https://www.svgrepo.com/show/138884/instagram.svg" align="center"/>][Instagram]
 <br />
 <br />
 <p align="center">
