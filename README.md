@@ -1,16 +1,73 @@
-### Hi there 👋
+### Hey I'm Ayberk :blush:
 
-<!--
-**AyberkOzkan/AyberkOzkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Electrical & Electronics Engineer || Wanna be Embedded Software Engineer
 
-Here are some ideas to get you started:
+[Linkedin]: https://www.linkedin.com/in/-ayberk/
+[E-mail]: kenan.ayberk@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<table>
+    <tr>
+        <td>My tech stack</td>
+        <td >I'm Currently Learning</td>
+    </tr>
+    <tr>
+        <td align ="left">
+            <ul>
+                <li>
+                    Altium Designer
+                </li>
+                <li>
+                    Matlab
+                </li>
+                <li>
+                    Arduino
+                </li>
+                <li>
+                    Dialux
+                </li>
+                <li>
+                    Circuit Design
+                </li>
+                <li>
+                    Autocad
+                </li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    Python
+                </li>
+                <li>
+                    Network Protocols
+                </li>
+                <li>
+                    Advanced Programming With C
+                </li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+### <img width="20" src="https://www.svgrepo.com/show/324660/dialog-chat-message-mail-email-letter-envelope.svg"/> Reach out to me
+[<img width="30" src="https://www.svgrepo.com/show/115230/linkedin.svg" align="center"/>][Linkedin]
+[<img width="30" src="https://www.svgrepo.com/show/230690/email-mail.svg" align="center"/>][E-mail]
+<br />
+<br />
+<img src="https://komarev.com/ghpvc/?username=AyberkOzkan&color=blueviolet&style=plastic" align = "center"/>
+<br />
+<br />
+<br />
+<p align="center">
+    <img height="140"
+      src="https://github-readme-stats.vercel.app/api?username=AyberkOzkan&show_icons=true&theme=dracula&bg_color=21262D&hide=prs,issues,contribs&hide_border=true"
+    />
+    <img height="140"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyberkOzkan&layout=compact&theme=dracula&bg_color=21262D&hide_border=true"
+    />    
+  </p>
+  
+  
+
+  
