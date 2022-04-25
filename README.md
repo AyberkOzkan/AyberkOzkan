@@ -55,9 +55,6 @@
 [<img width="30" src="https://www.svgrepo.com/show/230690/email-mail.svg" align="center"/>][E-mail]
 <br />
 <br />
-<br />
-<br />
-<br />
 <p align="center">
     <img height="130"
       src="https://github-readme-stats.vercel.app/api?username=AyberkOzkan&show_icons=true&theme=dracula&bg_color=21262D&hide=prs,issues,contribs&hide_border=true"
