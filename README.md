@@ -3,7 +3,7 @@
 ## Electrical & Electronics Engineer || Wanna be Embedded Software Engineer
 
 [Linkedin]: https://www.linkedin.com/in/-ayberk/
-[E-mail]: <a href="mailto:kenan.ayberk@hotmail.com">
+[E-mail]:  mailto:kenan.ayberk@hotmail.com
 [Instagram]: https://www.instagram.com/kenanayberkozkan/
 
 <table>
