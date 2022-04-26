@@ -5,6 +5,7 @@
 [Linkedin]: https://www.linkedin.com/in/-ayberk/
 [E-mail]:  mailto:kenan.ayberk@hotmail.com
 [Instagram]: https://www.instagram.com/kenanayberkozkan/
+[Edabit]: https://edabit.com/user/rC8JBCi29XdaCYchk
 
 <table>
     <tr>
@@ -50,10 +51,14 @@
     </tr>
 </table>
 
+### My Learning Progress
+[<img width="30" src="https://www.svgrepo.com/show/402059/letter-e.svg" align="center"/>][Edabit]
+
 ### <img width="20" src="https://www.svgrepo.com/show/324660/dialog-chat-message-mail-email-letter-envelope.svg"/> Reach out to me
 [<img width="30" src="https://www.svgrepo.com/show/138936/linkedin.svg" align="center"/>][Linkedin]
 [<img width="30" src="https://www.svgrepo.com/show/190382/email-mail.svg" align="center"/>][E-mail]
 [<img width="30" src="https://www.svgrepo.com/show/138884/instagram.svg" align="center"/>][Instagram]
+
 <br />
 <br />
 <p align="center">
