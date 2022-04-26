@@ -1,4 +1,4 @@
-### Hey I'm Ayberk :blush:
+### Hey :blush:
 
 ## Electrical & Electronics Engineer || Wanna be Embedded Software Engineer
 
