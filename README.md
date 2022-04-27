@@ -8,6 +8,7 @@
 [Edabit]: https://edabit.com/user/rC8JBCi29XdaCYchk
 [Hackerrank]: https://www.hackerrank.com/kenan_ayberk
 [Sololearn]: https://www.sololearn.com/profile/6206230
+[Udemy]: https://www.udemy.com/user/kenan-ayberk-ozkan/
 
 <table>
     <tr>
@@ -57,6 +58,7 @@
 [<img width="30" src="https://www.svgrepo.com/show/402059/letter-e.svg" align="center"/>][Edabit]
 [<img width="30" src="https://www.svgrepo.com/show/306171/hackerrank.svg" align="center"/>][Hackerrank]
 [<img width="30" src="https://seeklogo.com/images/S/sololearn-logo-98C11BA785-seeklogo.com.png" align="center"/>][Sololearn]
+[<img width="30" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" align="center"/>][Udemy]
 
 ### <img width="20" src="https://www.svgrepo.com/show/324660/dialog-chat-message-mail-email-letter-envelope.svg"/> Reach out to me
 [<img width="30" src="https://www.svgrepo.com/show/138936/linkedin.svg" align="center"/>][Linkedin]
