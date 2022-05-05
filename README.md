@@ -22,9 +22,6 @@
                     Altium Designer
                 </li>
                 <li>
-                    Matlab
-                </li>
-                <li>
                     Arduino
                 </li>
                 <li>
@@ -40,6 +37,9 @@
         </td>
         <td>
             <ul>
+                <li>
+                    Matlab
+                </li>
                 <li>
                     Python
                 </li>
