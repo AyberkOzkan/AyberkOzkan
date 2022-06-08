@@ -44,7 +44,7 @@
                     Python
                 </li>
                 <li>
-                    Network Protocols
+                    Communication Protocols
                 </li>
                 <li>
                     Advanced Programming With C
