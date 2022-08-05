@@ -75,7 +75,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyberkOzkan&layout=compact&theme=dracula&bg_color=21262D&hide_border=true"
     />    
   </p>
- 
+  <img src="https://komarev.com/ghpvc/?username=AyberkOzkan&color=blueviolet&style=plastic" align = "center"/>
   
   
 
