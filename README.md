@@ -59,7 +59,7 @@
 [<img width="30" src="https://www.svgrepo.com/show/402059/letter-e.svg" align="center"/>][Edabit]
 [<img width="30" src="https://www.svgrepo.com/show/306171/hackerrank.svg" align="center"/>][Hackerrank]
 [<img width="30" src="https://seeklogo.com/images/S/sololearn-logo-98C11BA785-seeklogo.com.png" align="center"/>][Sololearn]
-[<img width="40" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" align="center"/>][Patika]
+[<img width="50" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" align="center"/>][Patika]
 [<img width="30" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" align="center"/>][Udemy]
 
 ### <img width="20" src="https://www.svgrepo.com/show/324660/dialog-chat-message-mail-email-letter-envelope.svg"/> Reach out to me
