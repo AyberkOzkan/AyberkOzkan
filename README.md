@@ -1,6 +1,6 @@
 ### Hey :blush:
 
-## Electrical & Electronics Engineer || Wanna be Embedded Software Engineer
+## Electrical & Electronics Engineer || Software Design Engineer
 
 [Linkedin]: https://www.linkedin.com/in/-ayberk/
 [E-mail]:  mailto:kenan.ayberk@hotmail.com
