@@ -26,26 +26,32 @@
                     Arduino
                 </li>
                 <li>
-                    Dialux
-                </li>
-                <li>
                     Circuit Design
                 </li>
                 <li>
-                    Autocad
+                    PHP
+                </li>
+                <li>
+                    HTML 5 & CSS 3
+                </li>
+                <li>
+                    JavaScript
+                </li>
+                <li>
+                    Python
                 </li>
             </ul>
         </td>
         <td>
             <ul>
                 <li>
-                    Matlab
+                    C#
                 </li>
                 <li>
-                    Python
+                    Laravel
                 </li>
                 <li>
-                    Communication Protocols
+                    ASP.NET 
                 </li>
                 <li>
                     Advanced Programming With C
